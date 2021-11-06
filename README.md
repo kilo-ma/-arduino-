@@ -1,1 +1,11 @@
-# Ultrasonic-ranging-based-on-arduino
+# 超声波测距仪DIY
+准备材料：
+* Arduino nano
+* 0.96寸oled屏幕（IIC）
+* 18650电池一节
+* 电源保护模块一块
+* 升压模块一块
+* 船型开关一个
+* 3D打印外壳
+* 轻触按钮2个
+* HC-SR04超声波模块一个。
